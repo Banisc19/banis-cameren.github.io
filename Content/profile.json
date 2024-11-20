@@ -1,30 +1,30 @@
 {
 "About": {
-  "Name": "Robert J Zendejo",
-  "Currently": "Computer Science Student",
+  "Name": "Cameren Banis",
+  "Currently": "Electrical Engineering Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Bob Zendejo. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "AboutText": "Hi, I am Cameren Banis. I am a passionate electrical engineering student with a keen interest in PCB design, power electronics, and control systems. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of electrical engineering, with a particular focus on power systems.<br><br>I enjoy working in a collaborative environment where I am able to tackle problems with my fellow peers, learning new things with every problem that arises.<br><br>Beyond the classroom, I am the acting IEEE chair at Seattle Pacific University, which allows me to explore various different fields in electrical engineering and learn about the evolving industry from their expertise. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
 },
 "Contact": {
-  "EMail": "zendejor@spu.edu",
-  "Phone": "(206) 555-5555",
-  "Portfolio": "https://www.github.com",
+  "Email": "baniscameren@gmail.com",
+  "Phone": "(808) 228-6982",
+  "Portfolio": "https://github.com/Banisc19/banis-cameren.github.io",
   "LinkedIn": "https://linkedin.com",
-  "GitHub": "https://www.github.com"
+  "GitHub": "https://github.com"
 },
 "Experience": {
   "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
   "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2023",
+  "Major": "Electrical Engineering BSc",
+  "Graduation": "June 2026",
   "EducationText": "Use this to add some narrative to your education section",
   "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
+  "Role": "Physics Learning Assistant",
   "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
+  "Skills": ["C++", "Multisim", "Oscilloscopes", "Power Supplies", "Altium PCB Design", "LTSpice", "Excel"],
   "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
+  "Resume/CV": "student-resume.pdf"  
 },
 "Project1": {
     "Title": "Interesting Project 1",
