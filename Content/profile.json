@@ -2,7 +2,7 @@
 "About": {
   "Name": "Cameren Banis",
   "Currently": "Electrical Engineering Student",
-  "Headshot": "student-portrait.png",
+  "Headshot": "student-portrait.jpg",
   "Thumbnail": "student-logo.webp",
   "AboutText": "Hi, I am Cameren Banis. I am a passionate electrical engineering student with a keen interest in PCB design, power electronics, and control systems. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of electrical engineering, with a particular focus on power systems.<br><br>I enjoy working in a collaborative environment where I am able to tackle problems with my fellow peers, learning new things with every problem that arises.<br><br>Beyond the classroom, I am the acting IEEE chair at Seattle Pacific University, which allows me to explore various different fields in electrical engineering and learn about the evolving industry from their expertise. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
 },
@@ -27,21 +27,21 @@
   "Resume/CV": "student-resume.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "Title": "Frequency Detector Design Project",
+    "Desc": "Student designed frequency detector that operates to attenuate frequency outside 25 kHz<br><br>and demonstrates operation through physical and analog data",
+    "ProjectFile": "https://drive.google.com/file/d/1WVxoNiicFmQ1xgjixCOcSrAsatM43L9B/view?usp=sharing",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
-    "Title": "Interesting Project 2",
+    "Title": "Dual Adjustable Power Supply with Different Voltage Levels",
     "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
-    "Title": "Interesting Project 3",
+    "Title": "Integrated PCB Design for Multi-Trim Automotive Systems",
     "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
     "GitHubRepo": "",
     "MainImage": "P3Main.png",
