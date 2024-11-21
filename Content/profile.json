@@ -28,7 +28,7 @@
 },
 "Project1": {
     "Title": "Frequency Detector Design Project",
-    "Desc": "Student designed frequency detector that operates to attenuate frequency outside 25 kHz<br><br>and demonstrates operation through physical and analog data",
+    "Desc": "Student designed frequency detector that operates to attenuate frequency outside 25 kHz<br>and demonstrates operation through physical and analog data",
     "ProjectFile": "https://drive.google.com/file/d/1WVxoNiicFmQ1xgjixCOcSrAsatM43L9B/view?usp=sharing",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
